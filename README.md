@@ -26,6 +26,6 @@ You can explore more of my projects on my [GitHub Repositories](Link to your Git
 
 I'm open to collaborating on exciting data science projects and learning opportunities. If you have a project idea, need help, or just want to connect, feel free to reach out. Let's learn and grow together!
 -->
-Thanks for stopping by, and I look forward to connecting with you.
 
+Thanks for stopping by.
 Happy coding! 😄
