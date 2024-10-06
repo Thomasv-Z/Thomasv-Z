@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thomas!
 
-I'm a 20-year-old data science student at the University of Amsterdam. 
+I'm a 21-year-old data science student at the University of Amsterdam. 
 
 ## 🚀 About Me
 - 📚 I'm currently pursuing my Bachelor's degree in Data Science, where I'm learning the fundamentals of data analysis, machine learning, and statistical modeling.
